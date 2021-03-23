@@ -7,4 +7,5 @@
 * Add gramatical and punctuation rules. 
 * Create a system to automaticallay create the conversion rules and add new rules. 
 * Add more abreviations like 'USA' for 'United States of America'. 
+* Add decontracted phrases like won't to will not.
 
